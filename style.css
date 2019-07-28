@@ -1,0 +1,28 @@
+body{
+    margin:0 auto;
+    background: url("../images/concrete_seamless.png");
+
+h1{
+    font-size: 32px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-width: 10px;
+}
+
+.myfooter{
+    width: 100%;
+    position:fixed;
+    bottom:0;
+
+    border-top: 8px solid #4aaaa5;
+
+}
+.myfooter p{
+    font-size: 12px;
+
+}
+
+.moveContact{
+    margin-top:25px;
+}
+
+  
